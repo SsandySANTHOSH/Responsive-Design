@@ -1,0 +1,30 @@
+.squre{
+    width:90vw;
+    height: 90vh;
+}
+.center{
+    justify-content: center;
+}
+.midbox{
+    width: 80vw;
+    height: 80vh;
+    margin: 20px;
+    padding: 0px 0px 0px 20px;
+    background-color: rgb(105, 202, 231);
+    justify-content: center;
+}
+.smallbox{
+    width: 15vw;
+    height: 30vh;
+    background-color:rgb(187, 233, 187) ;
+    align-items: center;
+    padding: 10px 0px 0px 20px;
+
+}
+.circle{
+    height:20vh ;
+    width: 10vw;
+    border-radius: 50%;
+    background-color: rgb(153, 123, 123);
+    align-items: center;
+}
